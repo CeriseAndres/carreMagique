@@ -13,7 +13,7 @@ Nombres à inscrire au Mixeur
 |  2 |    |  8 |    |    |
 
 
-<img src="logo-telecom.png"><br><img src="logo-iram.png"><br><img src="logo-dta.png" width="50">
+<img src="logo-telecom.png"><br><img src="logo-iram.png"><br><img src="logo-dta.png" width="90">
 
 
 
