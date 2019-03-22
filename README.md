@@ -13,5 +13,9 @@ Nombres à inscrire au Mixeur
 |  2 |    |  8 |    |    |
 
 
+![IRAM logo](logo-iram.png "iram logo") *** ![Telecom logo](logo-telecom.png "telecom logo") *** ![DTA logo](logo-dta.png "dta logo")
+
+
+
 
 
