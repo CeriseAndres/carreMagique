@@ -6,6 +6,7 @@ L’objectif est de mettre en oeuvre une page web avec cette implémentation de 
 Nombres à inscrire au Mixeur
 
 |    |    |  4 |    | 10 |
+|----|----|----|----|----|
 | 19 |    |    | 13 |    |
 |    |  3 |    |  9 |    |
 |    | 24 |    |    | 18 |
