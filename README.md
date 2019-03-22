@@ -1,9 +1,9 @@
-Énigme dite des “Carrés Magiques”
+<h1 text align="center">Énigme dite des “Carrés Magiques”</h1>
 
-Sur l’un des lieux (Le Mixeur semble tenir la corde), l’énigme à résoudre sera un carré magique, mi-physique mi-virtuel.
-L’objectif est de mettre en oeuvre une page web avec cette implémentation de carré magique mi-réel mi-virtuel. La saisie du bon nombre permettra d’obtenir le code solution de l’énigme.
+<p text align="center">Sur l’un des lieux (Le Mixeur semble tenir la corde), l’énigme à résoudre sera un carré magique, mi-physique mi-virtuel.
+L’objectif est de mettre en oeuvre une page web avec cette implémentation de carré magique mi-réel mi-virtuel. La saisie du bon nombre permettra d’obtenir le code solution de l’énigme.</p>
 
-Nombres à inscrire au Mixeur :
+<p text align="center">Nombres à inscrire au Mixeur :</p>
 
 |    |    |  4 |    | 10 |
 |----|----|----|----|----|
@@ -13,7 +13,7 @@ Nombres à inscrire au Mixeur :
 |  2 |    |  8 |    |    |
 
 
-<div align item="center"><img src="logo-telecom.png"><br><img src="logo-iram.png" img align="left"><br><img src="logo-dta.png" width="90" img align="left"></div>
+<img src="logo-telecom.png" img align="left">  <img src="logo-iram.png" img align="left">  <img src="logo-dta.png" width="90" img align="left">
 
 
 
